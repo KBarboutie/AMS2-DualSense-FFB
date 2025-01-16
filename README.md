@@ -2,7 +2,7 @@
 Haptic FFB for PS5 DualSense controller controlling trigger effects and Vibrations
 Version 0.1.0
 
-## Uaage
+## Usage
 Launch AMS2 and turn off controller vibration in settings. Make sure telemetry is set to project cars 2 and via shared memory.
 Launch the .exe file and enjoy. Might require the usage of DS4 for Windows
 
