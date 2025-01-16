@@ -138,7 +138,7 @@ def repeat_process(frequency_hz):
         time.sleep(0.001)
 
 
-repeat_process(100)
+repeat_process(60)
 
 # disable/disconnect controller device
 controller.deactivate()
